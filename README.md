@@ -18,6 +18,9 @@ You can verify ☝ certificate [here](https://learndigital.withgoogle.com/digita
 
 ![Career Edge - Knockdown the Lockdown](https://res.cloudinary.com/techlead/image/upload/v1586948445/Certificates/lw5htdlhvzaep7aiocn0.png)
 
+
+Check out the **course report** [here](https://res.cloudinary.com/techlead/image/upload/v1586951334/report/a9yzu1axqbvwg9xzrf9m.pdf)
+🔥
 <hr>
 
 > * ### M001: MongoDB Basics
