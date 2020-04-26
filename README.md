@@ -23,6 +23,16 @@ Check out the **course report** [here](https://res.cloudinary.com/techlead/image
 🔥
 <hr>
 
+> * ### Responsive Web Design by _FreeCodeCamp_
+
+![Responsive Web Design](https://res.cloudinary.com/techlead/image/upload/v1581340187/Certificates/n7jmtwz623vqcbcwudxs.png)
+
+
+Verify certification [here](https://www.freecodecamp.org/certification/jayesh_tembhekar/responsive-web-design) ✔
+
+
+<hr>
+
 > * ### M001: MongoDB Basics
 
 ![M001: MongoDB Basics](https://res.cloudinary.com/techlead/image/upload/v1577202654/Certificates/nzsju8zi9dcojtreqvpk.jpg)
