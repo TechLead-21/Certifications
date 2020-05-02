@@ -30,7 +30,7 @@ Some of **my favorites**  are : 😃
 ✔ Check out the **course report** [here](https://res.cloudinary.com/techlead/image/upload/v1586951334/report/a9yzu1axqbvwg9xzrf9m.pdf)
 🔥
 <hr>
-[](https://res.cloudinary.com/techlead/image/upload/v1588159361/Certificates/kf8uvwhuumz9rxdvmyxa.png)
+
 > * ### Responsive Web Design by _FreeCodeCamp_
 
 ![Responsive Web Design](https://res.cloudinary.com/techlead/image/upload/v1581340187/Certificates/n7jmtwz623vqcbcwudxs.png)
@@ -50,5 +50,3 @@ Some of **my favorites**  are : 😃
 <hr>
 
 ### View more certifications from the same repository...👻
-
-
