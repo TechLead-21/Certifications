@@ -49,4 +49,10 @@ Some of **my favorites**  are : 😃
 
 <hr>
 
+> * ### Covid-19 Pandemic General Awareness Online Quiz by **NSS**
+
+![Online Quiz Certificate](https://res.cloudinary.com/techlead/image/upload/v1588685295/Certificates/fvrgwvn79mto9a3ucnho.png)
+
+<hr>
+
 ### View more certifications from the same repository...👻
