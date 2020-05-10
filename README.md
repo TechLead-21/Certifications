@@ -4,7 +4,7 @@
 
 Some of **my favorites**  are : 😃
 
-> * ### Fundamentals of Digital Marketing
+> * # Fundamentals of Digital Marketing
 
 ![Google Fundamentals of Digital Marketing](https://res.cloudinary.com/techlead/image/upload/v1577202687/Certificates/hbjvdld3jymhnkbbsg8p.jpg)
 
@@ -14,7 +14,7 @@ Some of **my favorites**  are : 😃
 
 <hr>
 
-> * ### Google Analytics for Beginners
+> * # Google Analytics for Beginners
 
 ![Google](https://res.cloudinary.com/techlead/image/upload/v1588158072/Certificates/w7vvjfgfuu9n0uwpec38.jpg)
 
@@ -22,7 +22,7 @@ Some of **my favorites**  are : 😃
 
 <hr>
 
-> * ### Career Edge - Knockdown the Lockdown _offered by TCS iON_
+> * # Career Edge - Knockdown the Lockdown _offered by TCS iON_
 
 ![Career Edge - Knockdown the Lockdown](https://res.cloudinary.com/techlead/image/upload/v1586948445/Certificates/lw5htdlhvzaep7aiocn0.png)
 
@@ -31,7 +31,7 @@ Some of **my favorites**  are : 😃
 🔥
 <hr>
 
-> * ### Responsive Web Design by _FreeCodeCamp_
+> * # Responsive Web Design by _FreeCodeCamp_
 
 ![Responsive Web Design](https://res.cloudinary.com/techlead/image/upload/v1581340187/Certificates/n7jmtwz623vqcbcwudxs.png)
 
@@ -41,7 +41,7 @@ Some of **my favorites**  are : 😃
 
 <hr>
 
-> * ### M001: MongoDB Basics
+> * # M001: MongoDB Basics
 
 ![M001: MongoDB Basics](https://res.cloudinary.com/techlead/image/upload/v1588159361/Certificates/kf8uvwhuumz9rxdvmyxa.png)
 
@@ -49,7 +49,7 @@ Some of **my favorites**  are : 😃
 
 <hr>
 
-> * ### Covid-19 Pandemic General Awareness Online Quiz by **NSS**
+> * # Covid-19 Pandemic General Awareness Online Quiz by **NSS**
 
 ![Online Quiz Certificate](https://res.cloudinary.com/techlead/image/upload/v1588685295/Certificates/fvrgwvn79mto9a3ucnho.png)
 
