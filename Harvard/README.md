@@ -1,4 +1,4 @@
-9
+
   # Ethical and Psychosocial Issues in Management of COVID-19
 
 ![Ethical and Psychosocial Issues in Management of COVID-19](./Ethical%20and%20Psychosocial%20Issues%20in%20Management%20of%20COVID-19.png "Certificate of Participation")
