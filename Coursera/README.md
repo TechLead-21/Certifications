@@ -15,3 +15,11 @@
 ✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/A8T7DD3NY9RM "coursera.org/verify")
 
 ---
+
+# Introduction to Project Management
+
+![Introduction to Project Management](./Introduction-to-Project-Management.jpg "certificate of completion")
+
+✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/KEN4F6H8NZGD "coursera.org/verify")
+
+---
