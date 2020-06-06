@@ -23,3 +23,9 @@
 ✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/KEN4F6H8NZGD "coursera.org/verify")
 
 ---
+
+# Build an E-commerce Dashboard with Figma
+
+![Build an E-commerce Dashboard with Figma](./Build-an-E-commerce-Dashboard-with-Figma.jpg "certificate of completion")
+
+✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/CUJZQX7XNR3K "coursera.org/verify")
