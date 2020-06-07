@@ -1,3 +1,11 @@
+# Data Science Math Skills by _Duke University_
+
+![Data Science Math Skills](./Data%20Science%20Math%20Skills.jpg "certificate of completion")
+
+✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/7VMQEXTTWAFT "coursera.org/verify")
+
+---
+
 # Introduction to Relational Database and SQL
 
 ![Introduction to Relational database and SQL](./Introduction%20to%20Relational%20database%20and%20SQL.jpg "certificate of completion")
@@ -29,3 +37,5 @@
 ![Build an E-commerce Dashboard with Figma](./Build-an-E-commerce-Dashboard-with-Figma.jpg "certificate of completion")
 
 ✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/CUJZQX7XNR3K "coursera.org/verify")
+
+---
