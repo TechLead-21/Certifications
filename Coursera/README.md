@@ -6,6 +6,15 @@
 
 ---
 
+# Build a Data Science Web App with Streamlit and Python
+
+![Build a Data Science Web App with Streamlit and Python](./Build-a-Data-Science-Web-App-with-Streamlit-and-Python.jpg "certificate of completion")
+
+✔ _verify certificate_ [**here**](https://www.coursera.org/account/accomplishments/verify/L2AWATS5M34S "coursera.org/verify")
+
+
+---
+
 # Introduction to Relational Database and SQL
 
 ![Introduction to Relational database and SQL](./Introduction%20to%20Relational%20database%20and%20SQL.jpg "certificate of completion")
