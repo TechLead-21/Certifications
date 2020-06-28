@@ -9,7 +9,7 @@ Some of **my favorites**  are : 😃
 ![Google Fundamentals of Digital Marketing](https://res.cloudinary.com/techlead/image/upload/v1577202687/Certificates/hbjvdld3jymhnkbbsg8p.jpg)
 
 
-✔ You can verify ☝ certificate [here](https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code) _(use certificate ID)_
+✔ **verify certificate** [**here**](https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code) _(use certificate ID)_
 
 
 <hr>
@@ -18,7 +18,7 @@ Some of **my favorites**  are : 😃
 
 ![Google](https://res.cloudinary.com/techlead/image/upload/v1588158072/Certificates/w7vvjfgfuu9n0uwpec38.jpg)
 
-✔  Verify certificate [here](https://analytics.google.com/analytics/academy/certificate/WDmElTpJRqu3Jd1BMGwm0Q) 
+✔  **verify certificate** [**here**](https://analytics.google.com/analytics/academy/certificate/WDmElTpJRqu3Jd1BMGwm0Q) 
 
 <hr>
 
@@ -36,7 +36,7 @@ Some of **my favorites**  are : 😃
 ![Responsive Web Design](https://res.cloudinary.com/techlead/image/upload/v1581340187/Certificates/n7jmtwz623vqcbcwudxs.png)
 
 
-✔ Verify certification [here](https://www.freecodecamp.org/certification/jayesh_tembhekar/responsive-web-design)
+✔ **verify certification** [**here**](https://www.freecodecamp.org/certification/jayesh_tembhekar/responsive-web-design)
 
 
 <hr>
@@ -45,7 +45,7 @@ Some of **my favorites**  are : 😃
 
 ![M001: MongoDB Basics](https://res.cloudinary.com/techlead/image/upload/v1588159361/Certificates/kf8uvwhuumz9rxdvmyxa.png)
 
-✔ You can verify ☝ certificate [here](https://university.mongodb.com/course_completion/47538fb9-62d6-4860-955c-742537c5d1e7)
+✔ **verify certificate** [**here**](https://university.mongodb.com/course_completion/47538fb9-62d6-4860-955c-742537c5d1e7)
 
 <hr>
 
