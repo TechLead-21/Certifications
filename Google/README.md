@@ -22,13 +22,9 @@
 
 <br>
 
-# 4. **Web Designer Basics**
+---
 
-<div align="center">
 
-<img src="./Google%20Web%20Designer%20Basics.png" title="completion badge" />
-
-</div>
 
 ---
 
